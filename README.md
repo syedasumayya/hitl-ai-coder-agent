@@ -163,17 +163,6 @@ LLM analyzes the result
 Final Response
 ```
 
-# 🔐 Security
-
-Since the application executes AI-generated code locally, production environments should use additional security measures:
-
-* Docker/container sandboxing
-* Execution timeouts
-* CPU and memory limits
-* Restricted filesystem access
-* Restricted network access
-* Code validation
-
 # 🎯 Project Purpose
 
 This project demonstrates how to build a **stateful AI coding agent** using:
@@ -186,16 +175,6 @@ This project demonstrates how to build a **stateful AI coding agent** using:
 * Python code execution
 * AI-powered error analysis
 
-# 🔮 Future Improvements
-
-* Docker-based code sandboxing
-* Authentication
-* Persistent checkpoints
-* Streaming responses
-* Automated code testing
-* Execution history
-* Cloud deployment
-* Advanced security controls
 
 # 👩‍💻 Author
 
